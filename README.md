@@ -122,9 +122,9 @@ For this project we are using AlienVault. While looking at the OpenCTI Alienvaul
 
  
 Copying the contents of the file in notepad and making some changes as necessary. Taking .env file as a reference.
-OPENCTI_Token= 6579277b-79c6-4b20-85f9-aa415fa5df90 (from .env file)
+OPENCTI_Token= xxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxx (from .env file)
 CONNECTOR_ID= 89b967e8-4812-4f85-b266-4875ae08c7a2 (from UUID)
-ALIENVAULT_API_KEY = 8d2a83cdc9f1133c94b158fb1cc80817506be530518feaad1ee82a0ef248374e(fromAlienVault OTX)
+ALIENVAULT_API_KEY = xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx(fromAlienVault OTX)
 These are the things we are going to make changes on the file.
 Then we are going to add the content we just made changes in the notepad and add it in docker-compose.yml file.
 
